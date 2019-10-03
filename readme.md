@@ -8,4 +8,5 @@
 * INSATAGRAM: @this_is_lulu61
 - Mac使用者請用Chrome來編輯Github
 IT'S ME!!!!
-![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiS9-HCzIDlAhVGwosBHdqLAXIQjRx6BAgBEAQ&url=https%3A%2F%2Ftwgreatdaily.com%2F-S7i8GwBJleJMoPMvJ88.html&psig=AOvVaw3CghqOQd1zLehmwbJ7zxhk&ust=1570209540190200)
+![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiYlMCgzYDlAhUwGKYKHfC4B8oQjRx6BAgBEAQ&url=https%3A%2F%2Fstore.line.me%2Femojishop%2Fproduct%2F5c46f044031a6709c168878d%2Fzh-Hant&psig=AOvVaw3CghqOQd1zLehmwbJ7zxhk&ust=1570209540190200)
+
