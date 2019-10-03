@@ -1,4 +1,5 @@
 # ABOUT MYSELF :)
+##WELCOME TO MY learning note
 * MY NAME:Lulu Lai
 * BIRTH:1999/06/01
 * CONSTELLATION:Gemini
