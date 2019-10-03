@@ -5,3 +5,5 @@
 * INTEREST:Dance \Math \Food \Netflix
 * MAJOR:SCU Big Data
 * INSATAGRAM: @this_is_lulu61
+======
+Mac使用者請用Chrome來編輯Github
