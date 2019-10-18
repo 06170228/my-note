@@ -1,8 +1,17 @@
 # 965. Univalued Binary Tree
 
-
-class Solution:
+```
+class Solution:    
     def isUnivalTree(self, root):
-        left_correct = (not root.left or root.val == root.left.val and self.isUnivalTree(root.left))
-        right_correct = (not root.right or root.val == root.right.val and self.isUnivalTree(root.right))
-        return left_correct and right_correct
+        """
+        :type root: TreeNode
+        :rtype: bool
+        """
+        if not root: #如果沒有左右腳直接回傳True
+            return True
+        
+        if (root.left and root.val != root.left.val) or (root.right and root.val != root.right.val):
+            return False  #先從左腳開始，如果左腳質與root不一樣則回傳False，右腳同理
+        
+        return self.isUnivalTree(root.left) and self.isUnivalTree(root.right)
+```
