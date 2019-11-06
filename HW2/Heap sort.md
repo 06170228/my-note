@@ -1,9 +1,9 @@
 # Heap sort
 
-最小堆積(Min Heap):父節點的值小於子節點，樹根(root)一定最所有節點的最小值
+最大堆積(Max Heap):父節點的值大於子節點，樹根(root)一定最所有節點的最大值
 ![image](https://github.com/06170228/my-note/blob/master/Image/max%20heap.png)
 
-最大堆積(Max Heap):父節點的值大於子節點，樹根(root)一定最所有節點的最大值
+最小堆積(Min Heap):父節點的值小於子節點，樹根(root)一定最所有節點的最小值
 ![image](https://github.com/06170228/my-note/blob/master/Image/min%20heap.png)
 
 
