@@ -10,8 +10,12 @@ Merge Sort 流程圖
 痛苦的心路歷程來了，準備好了嗎( ´•̥̥̥ω•̥̥̥` ) 要來摟
 ![image](https://github.com/06170228/my-note/blob/master/Image/merge%E6%AD%B7%E7%A8%8B%E3%84%A7.png)
 ![image](https://github.com/06170228/my-note/blob/master/Image/merge%E6%AD%B7%E7%A8%8B%E4%BA%8C.png)
+好多東西要改QQ還看不懂英文(╥﹏╥)好慘
 
+後來發現錯誤在:
 
+    * 找中間值時，不可以直接將right直接/2，必須(left+right)/2
+    * 用索引值當作range，導致出現錯誤"IndexError: list assignment index out of range"，超出陣列範圍
 
 參考資料： [合併排序法](https://medium.com/appworks-school/初學者學演算法-排序法進階-合併排序法-6252651c6f7e)
 
