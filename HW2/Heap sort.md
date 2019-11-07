@@ -14,7 +14,9 @@
 
 我要從何下手ㄋ(◞‸◟)
 ![image](https://github.com/06170228/my-note/blob/master/Image/heap%20sort%E6%AD%B7%E7%A8%8B%E3%84%A7.png)
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/heap%20sort%20%E6%AD%B7%E7%A8%8B%E4%BA%8C.png)
 又是一堆錯誤....◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣
+
+後來發現錯誤在於少了"heapify(arr, n, largest)"這行，再次確認下面的節點
 
 參考資料： [堆積排序法](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
