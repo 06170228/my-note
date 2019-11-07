@@ -1,4 +1,4 @@
-```
+
 class Solution():
     def merge(self, arr, left, middle, right): #類別(class)內的函式須先加self
 
