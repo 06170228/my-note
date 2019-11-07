@@ -8,7 +8,7 @@ Merge Sort 流程圖
 * Conquer：按照「由小到大」的順序，「合併」小數列。
 
 痛苦的心路歷程來了，準備好了嗎( ´•̥̥̥ω•̥̥̥` ) 要來摟
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/merge%E6%AD%B7%E7%A8%8B%E3%84%A7.png)
 ![image]()
 
 
