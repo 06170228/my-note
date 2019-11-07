@@ -11,4 +11,6 @@ merge sort:對於較大的集合，合併排序比堆積排序要快一些，但
 
 heap sort:它是O（nlogn）排序算法中最慢的，但與合併排序和快速排序不同，它不需要大量的遞迴或多個陣列即可工作。
 
-![影片連結](http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf)
+[影片連結](http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf)
+
+參考資料：[sorts](http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf)
