@@ -13,7 +13,7 @@
 又是困難的心路歷程。。。。。好想哭
 
 我要從何下手ㄋ(◞‸◟)
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/heap%20sort%E6%AD%B7%E7%A8%8B%E3%84%A7.png)
 ![image]()
 又是一堆錯誤....◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣
 
