@@ -8,6 +8,6 @@
 
 其實一開始看到heap sort的影片根本看不懂，一直交換來交換去><後來看文字及圖片解說才比較懂
 ## Heap Sort流程圖]
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/Heap%20Sort%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 參考資料： [堆積排序法](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
