@@ -10,7 +10,9 @@
 ## Heap Sort流程圖]
 ![image](https://github.com/06170228/my-note/blob/master/Image/Heap%20Sort%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
-又是心路歷程。。。。。好想哭
+又是困難的心路歷程。。。。。好想哭
+
+我要從何下手ㄋ(◞‸◟)
 ![image]()
 ![image]()
 又是一堆錯誤....◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣
