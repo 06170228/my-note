@@ -5,7 +5,7 @@ insert的時候如果遇到重複值該怎麼辦？
 基本上不能破壞原本的結構，但如果有重複值，需要放在離root最近的地方。
 
 insert流程圖
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/BST_insert%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 ## delete
 
