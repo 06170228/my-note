@@ -36,7 +36,7 @@ delete流程圖
 modify為修改，但修改的值會影響原本的root，可能造成root的構造改變，也可能不會。看以下流程圖。
 
 modify流程圖
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/BST_Modify%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 設x為修改後的值，而7為被改的值。
 
