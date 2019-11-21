@@ -28,13 +28,15 @@ delete流程圖
 
 ## search
 
+搜尋。
+這個好像不太需要畫流程圖呢！！！！！：）
 
 ## modify
 
 modify為修改，但修改的值會影響原本的root，可能造成root的構造改變，也可能不會。看以下流程圖。
 
 modify流程圖
-![image](https://github.com/06170228/my-note/blob/master/Image/BST_modify%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+![image]()
 
 設x為修改後的值，而7為被改的值。
 
