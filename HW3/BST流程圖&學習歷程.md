@@ -14,9 +14,10 @@ insert流程圖
   
   * if 1 child ： child直接與上面連接。
   
-  * if 2 children ：先找self.right，再找self.right.left，將self.right.left換到被delete的位置。
-   但又有一個問題，如果沒有self.right.left怎麼辦？只好將self.left換到被delete的位置，即可完成。
+  * if 2 children ：<情況一>選擇5，先找self.right也就是8，再找self.right.left也就是7，將self.right.left換到被delete的位置。
+   但又有一個問題，如果沒有self.right.left怎麼辦？<情況二>如果選擇8被delete，沒有self.right.left，只好將self.left也就是7，換到被delete的位置，即可完成。
 
+delete流程圖
 ![image](https://github.com/06170228/my-note/blob/master/Image/BST_delete%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 ## search
