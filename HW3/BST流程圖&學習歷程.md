@@ -34,5 +34,7 @@ modify流程圖
 ![image](https://github.com/06170228/my-note/blob/master/Image/BST_modify%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 設x為修改後的值，而7為被改的值。
+
 若6 < x < 9，則可以直接修改，root構造並不會變。<情況一>
+
 若x > 9 或 x < 6則須先做delete的動作，再insert x進去。<情況二>&<情況三>
