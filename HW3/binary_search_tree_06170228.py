@@ -131,7 +131,7 @@ class Solution(object):
 
     def modify(self, root, target, new_val):
         Solution().REmodify(root, target, new_val)
-        if (Solution().search(root, target) != None):
+        while (Solution().search(root, target) != None):
             Solution().delete(root, target)
             Solution().insert(root, new_val)
         return root
