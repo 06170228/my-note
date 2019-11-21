@@ -16,7 +16,9 @@ insert流程圖
   
   * if 2 children ：先找self.right，再找self.right.left，將self.right.left換到被delete的位置。
    但又有一個問題，如果沒有self.right.left怎麼辦？只好將self.left換到被delete的位置，即可完成。
-   
+
+![image](https://github.com/06170228/my-note/blob/master/Image/BST_delete%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
 ## search
 
 
