@@ -25,3 +25,11 @@ delete流程圖
 
 ## modify
 
+modify為修改，但修改的值會影響原本的root，可能造成root的構造改變，也可能不會。看以下流程圖。
+
+modify流程圖
+![image]()
+
+設x為修改後的值，而7為被改的值。
+若6 < x < 9，則可以直接修改，root構造並不會變。
+若x > 9 或 x < 6則須先做delete的動作，再insert x進去。
