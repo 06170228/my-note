@@ -30,3 +30,14 @@
 ## Search(查詢)
 
 BST的Search()操作，便是根據BST的特徵：Key(L)<Key(Current)<Key(R)，判斷Current應該往left subtree走，還是往right subtree走。
+
+
+參考資料：
+
+[Binary search tree : Search 、Insert](http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html)
+
+[Binary Search Tree](https://medium.com/@Kadai/資料結構大便當-binary-search-tree-3c40be3204e)
+
+[Modify a binary search tree](https://stackoverflow.com/questions/40809916/modify-a-binary-search-tree)
+
+[Binary Search Tree: Sort、Delete](http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html)
