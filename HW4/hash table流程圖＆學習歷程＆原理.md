@@ -19,4 +19,27 @@ Hash Table希望能夠將存放資料的「Table」的大小(size)降到「真�
 原本沒有想到重複值的問題，但若有重複值再刪除及查詢時很麻煩，所以改成若遇到重複值就不加入。
 
 其中有遇到的問題在下圖：
+![image](https://github.com/06170228/my-note/blob/master/Image/hash%20table%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.png)
+
+在第4、5行:
+
+          curr = self.data[index].val
+
+          curr.next = self.data[index].next.val
+          
+我的想法錯誤，導致下面while迴圈無法正常跑
+
+應該要改為:
+
+          curr = self.data[index]
+
+while迴圈中也要改成下面這樣才對。
+
+          if curr.val == key:
+                return True
+            else:
+                curr = curr.next
+         
+
+## Hash table流程圖
 ![image]()
