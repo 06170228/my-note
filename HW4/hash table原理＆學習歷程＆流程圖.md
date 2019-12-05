@@ -42,4 +42,10 @@ while迴圈中也要改成下面這樣才對。
          
 
 ## Hash table流程圖
-![image]()
+![image](https://github.com/06170228/my-note/blob/master/Image/hash%20table%20%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+
+
+## Referrence
+參考周柏佳同學的程式碼
+
+[參考網站](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
