@@ -19,7 +19,7 @@ class MyHashSet:
     
     def add(self, key):
         key = self.MD5(key)
-        index = key % 5 #key除以5的餘數有[0,1,2,3,4]
+        index = key % self.capacity #key除以5的餘數有[0,1,2,3,4]
         node = ListNode(key)
         if self.data[index] == None:
             self.data[index] = node
@@ -38,7 +38,7 @@ class MyHashSet:
             
     def remove(self, key):
         key = self.MD5(key)
-        index = key % 5
+        index = key % self.capacity
         if self.data[index] == None:
             return
         if self.data[index].val == key:
@@ -54,7 +54,7 @@ class MyHashSet:
         
     def contains(self, key):
         key = self.MD5(key)
-        index = key % 5
+        index = key % self.capacity
         curr = self.data[index]
         while curr:
             if curr.val == key:
