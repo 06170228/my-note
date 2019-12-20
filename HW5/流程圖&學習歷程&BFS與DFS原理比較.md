@@ -30,5 +30,7 @@ dfs使用遞迴函式程式可以簡潔地進行書寫，並且狀態管理也�
 ![image](https://github.com/06170228/my-note/blob/master/Image/BFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E4%B8%80.png)
 
 
+
 其實BFS和DFS沒有差太多，在這邊看到一個是queue 另一個則是stack。
 ![image](https://github.com/06170228/my-note/blob/master/Image/BFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E4%BA%8C.png)
+![image](https://github.com/06170228/my-note/blob/master/Image/BFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E4%B8%89.png)
