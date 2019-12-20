@@ -31,6 +31,14 @@ dfs使用遞迴函式程式可以簡潔地進行書寫，並且狀態管理也�
 
 
 
-其實BFS和DFS沒有差太多，在這邊看到一個是queue 另一個則是stack。
+其實BFS和DFS沒有差太多，在這邊看到一個是queue 另一個則是stack。一個是先進先出，另一個則是最後進的先出。
 ![image](https://github.com/06170228/my-note/blob/master/Image/BFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E4%BA%8C.png)
 ![image](https://github.com/06170228/my-note/blob/master/Image/BFS%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E4%B8%89.png)
+
+
+## Reference
+[BFS廣度優先搜尋](https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+
+[DFS深度優先搜尋](http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
+
+與厲彥伯同學討論。
