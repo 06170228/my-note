@@ -7,9 +7,7 @@ class Graph():
         self.graph = []   
         self.graph_matrix = [[0 for column in range(vertices)]
                     for row in range(vertices)] 
-        
-
-            
+                    
     def addEdge(self,u,v,w): 
         pass
     def Dijkstra(self, s): 
@@ -17,33 +15,26 @@ class Graph():
         self.Q = defaultdict(list)      
         for i in range(len(self.graph)) :
             self.Q[str(i)]=self.graph[i]
-         
-        
+               
         self.pre = defaultdict(list)
         for i in range(self.V):
             self.pre[str(i)].append(-1)
-            
-        
+                
         self.dis = defaultdict(list)
         for i in range(self.V):
             self.dis[str(i)]= 0
-        
-        
-        
+               
          
         for i in self.Q:
             if self.Q[i][s]!= 0 :
                 self.pre[i] = s
                 self.dis[i] = self.Q[i][s]
-                
-                
+                                
         
         self.S = []
-        self.S.append(str(s))
-            
+        self.S.append(str(s))           
            
-        self.Q.pop(str(s))
-        
+        self.Q.pop(str(s))       
         
         return self.BOJIA(self.dis)
     
@@ -58,8 +49,7 @@ class Graph():
         for i in self.dis:
             if (self.dis[i]!=0) & (self.dis[i] < min)&( i not in self.S):
                 min = self.dis[i]
-                min_key = i
-        
+                min_key = i     
         
         
         for i in self.Q:
