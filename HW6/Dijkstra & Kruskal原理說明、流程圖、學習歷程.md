@@ -37,4 +37,8 @@
 
 （3）依此類推，直至T中所有頂點都在同一連通分量上為止
 
+![image](https://github.com/06170228/my-note/blob/master/Image/Kruskal.png)
+
+## Shortest Path 流程圖
+
 ![image]()
