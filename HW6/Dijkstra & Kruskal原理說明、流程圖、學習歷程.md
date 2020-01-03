@@ -27,7 +27,7 @@
 
 ![image](https://github.com/06170228/my-note/blob/master/Image/dijkstra%20.png)
 
-## Kruska
+## Kruskal
 
 設連通網N=(V,{E})，令最小生成樹
 
@@ -42,3 +42,14 @@
 ## Shortest Path 流程圖
 
 ![image](https://github.com/06170228/my-note/blob/master/Image/shortest%20path%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
+
+
+### Reference
+
+[最短路徑、Kruskal、Dijkstra](https://www.itread01.com/content/1548612012.html)
+
+[Shortest Path簡介](http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html)
+
+[演算法筆記：Spanning Tree](http://www.csie.ntnu.edu.tw/~u91029/SpanningTree.html)
+
