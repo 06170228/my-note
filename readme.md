@@ -16,42 +16,24 @@ IT'S ME!!!!
 
 ## Study schedule
 
-- (week1)[#week-1]
-
-- (week2)[#week-2]
-
-- (week3)[#week-3]
-
-- (week4)[#week-4]
-
-- (week5)[#week-5]
-
-- (week6)[#week-6]
-
-- (week7)[#week-7]
-
-- (week8)[#week-8]
-
-- (week9)[#week-9]
-
-- (week10)[#week-10]
-
-- (week11)[#week-11]
-
-- (week12)[#week-12]
-
-- (week13)[#week-13]
-
-- (week14)[#week-14]
-
-- (week15)[#week-15]
-
-- (week16)[#week-16]
-
-- (week17)[#week-17]
-
-- (week18)[#week-18]
-
+- [week 1](#week-1)
+- [week 2](#week-2)
+- [week 3](#week-3)
+- [week 4](#week-4)
+- [week 5](#week-5)
+- [week 6](#week-6)
+- [week 7](#week-7)
+- [week 8](#week-8)
+- [week 9](#week-9)
+- [week 10](#week-10)
+- [week 11](#week-11)
+- [week 12](#week-12)
+- [week 13](#week-13)
+- [week 14](#week-14)
+- [week 15](#week-15)
+- [week 16](#week-16)
+- [week 17](#week-17)
+- [week 18](#week-18)
 
 # week 1 
 (9/09-9/13)
