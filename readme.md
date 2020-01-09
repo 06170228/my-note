@@ -93,7 +93,7 @@ IT'S ME!!!!
 (10/07-10/11)
 雙十連假
 
-[作業1](https://github.com/pignini/as/tree/master/HW1)
+[作業1](https://github.com/06170228/my-note/tree/master/HW1)
 
 # week 6 
 (10/14-10/18)
@@ -110,7 +110,7 @@ IT'S ME!!!!
 (10/21-10/25)
 * Merge Sort
 
-[作業2](https://github.com/pignini/as/tree/master/HW2)
+[作業2](https://github.com/06170228/my-note/tree/master/HW2)
 
 ----------------------------------------
  
@@ -134,7 +134,7 @@ IT'S ME!!!!
 (11/04-11/08)
 * Binary Search Tree
 
-[作業3](https://github.com/pignini/as/tree/master/HW3)
+[作業3](https://github.com/06170228/my-note/tree/master/HW3)
 
 ----------------------------------------
  
@@ -159,7 +159,7 @@ IT'S ME!!!!
 (11/18-11/22)
 * Hash Table
 
-[作業4](https://github.com/pignini/as/tree/master/HW4)
+[作業4](https://github.com/06170228/my-note/tree/master/HW4)
 
 #### Design HashSet
 
@@ -186,7 +186,7 @@ IT'S ME!!!!
 (12/02-12/06)
 *  Depth-First Search
 
-[作業5](https://github.com/pignini/as/tree/master/HW5)
+[作業5](https://github.com/06170228/my-note/tree/master/HW5)
 
  ----------------------------------------
     
@@ -225,7 +225,7 @@ IT'S ME!!!!
 
 *  期末考複習
 
-[作業6](https://github.com/pignini/as/tree/master/HW6)
+[作業6](https://github.com/06170228/my-note/tree/master/HW6)
 
 # week 17
 (12/30-01/03)
