@@ -16,6 +16,7 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeS
 - [第六題](#06)
 - [第七題](#07)
 - [第八題](#08)
+- [test](#09)
 
 
 # Python Meet Python
@@ -97,5 +98,11 @@ hex() 函数用在把10進位整數轉換成16進位制，
 
 #### 答案：hex(int(n,x))[2:]
 
+
+
+
+## 09
+
+[other test](https://github.com/06170228/my-note/blob/master/Codesignal/codesignal_test.py)
 ---------------------------
 
