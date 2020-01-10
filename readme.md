@@ -155,12 +155,12 @@ IT'S ME!!!!
 
 
 
-
-  ![]()
+## insertion sort
+  ![](https://github.com/06170228/my-note/blob/master/Image/insert%20sort.png)
  
 
- 
-  ![]()
+## quick sort 
+  ![](https://github.com/06170228/my-note/blob/master/Image/quick%20sort.png)
   
 
 
@@ -177,8 +177,8 @@ IT'S ME!!!!
  
  ----------------------------------------
  
- ![](image/heap%20sort.png)
- ![](image/Heap%20Sort2.jpg)
+ ![]()
+ ![]()
  
  ----------------------------------------
 
@@ -190,7 +190,7 @@ IT'S ME!!!!
 
 ----------------------------------------
  
-![](image/Merge%20Sort(合併排序法).png)
+![]()
 
 ----------------------------------------
 
@@ -201,8 +201,8 @@ IT'S ME!!!!
 
 ----------------------------------------
 
-![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
-![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
+![]()
+[binary tree](http://alrightchiu.github.io/SecondRound/binary-tree-jian-li-yi-ke-binary-tree.html)
 
 ----------------------------------------
 
@@ -214,8 +214,10 @@ IT'S ME!!!!
 
 ----------------------------------------
  
-![](/image/Binary%20Search%20Tree.png)
-![](/image/Binary%20Search%20Tree2.png)
+![](https://github.com/06170228/my-note/blob/master/Image/BST_insert流程圖.jpg)
+![](https://github.com/06170228/my-note/blob/master/Image/BST_delete流程圖.jpg)
+![](https://github.com/06170228/my-note/blob/master/Image/BST_Modify流程圖.jpg)
+[binary search tree](http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html)
 
 ----------------------------------------
 
@@ -227,7 +229,8 @@ IT'S ME!!!!
 
 ----------------------------------------
  
-![](/image/red%20black%20tree.png) 
+![]() 
+![]()
  
  ----------------------------------------
 
@@ -237,14 +240,10 @@ IT'S ME!!!!
 
 [作業4](https://github.com/06170228/my-note/tree/master/HW4)
 
-#### Design HashSet
 
-[內容](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
-
- ----------------------------------------
-  
- ![](/image/Hash%20Table.png)
- ![](/image/Hash%20Table%202.png)
+ ![]()
+ ![]()
+ [hash set](https://www.cs.wcupa.edu/rkline/ds/hash-sets.html)
  
  ---------------------------------------- 
 
@@ -254,7 +253,7 @@ IT'S ME!!!!
  
  ----------------------------------------
   
- ![](/image/Breadth-First%20Search1.png) 
+ ![]() 
  
  ----------------------------------------
  
@@ -266,8 +265,8 @@ IT'S ME!!!!
 
  ----------------------------------------
     
- ![](/image/Depth-First%20Search.png) 
- 
+ ![]() 
+ ![]() 
  ----------------------------------------
 
 # week 14
@@ -276,8 +275,8 @@ IT'S ME!!!!
 
  ----------------------------------------
  
- ![](/image/MST1.png)
- ![](/image/MST2.png)
+ ![]()
+ [minimum spanning tree](http://alrightchiu.github.io/SecondRound/minimum-spanning-treeintrojian-jie.html)
  
  ----------------------------------------
  
@@ -285,14 +284,9 @@ IT'S ME!!!!
 (12/16-12/20)
 *  Shortest Path
 
-#### Implement Stack using Queues 
-
-[內容](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
-
- ----------------------------------------
  
- ![](/image/Shortest%20Path.png)
- ![](/image/Shortest%20Path1.png) 
+ ![]()
+ [shortest path](http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html) 
  
  ----------------------------------------
 
