@@ -16,96 +16,76 @@ IT'S ME!!!!
 
 ### 自學
 
- * [Leetcode](https://github.com/pignini/as/tree/master/Leetcode/)
+ * [Leetcode](https://github.com/06170228/my-note/tree/master/Leetcode)
  
-     -[自學內容](https://github.com/pignini/as/blob/master/Leetcode/README.md) 
- 
-     -[Designed Linked List](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
-
-     -[Implement Queue using Stacks](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
-
-     -[Sort an Array](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
-
-     -[Design HashSet](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
-
-     -[Implement Stack using Queues](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
+     
 
    
- * [Codesignal](https://github.com/pignini/as/tree/master/Codesignal/)
+ * [Codesignal](https://github.com/06170228/my-note/tree/master/Codesignal)
  
-      -[自學內容](https://github.com/pignini/as/blob/master/Codesignal/README.md) 
-
- * [CS50](https://github.com/pignini/as/tree/master/CS50/)
  
-      -[自學內容](https://github.com/pignini/as/blob/master/CS50/README.md) 
-      
-      -[week 3筆記](https://github.com/pignini/as/blob/master/CS50/week%203.md)
 
-      -[week 4筆記](https://github.com/pignini/as/blob/master/CS50/week%204.md)
+ * [CS50](https://github.com/06170228/my-note/tree/master/CS50)
+ 
 
-      -[week 5筆記](https://github.com/pignini/as/blob/master/CS50/week%205.md)
-
-      -[week 7筆記](https://github.com/pignini/as/blob/master/CS50/week%207.md)
-
-      -[week 8筆記](https://github.com/pignini/as/blob/master/CS50/week%208.md)
  
  ### 作業
 
- * [作業1](https://github.com/pignini/as/tree/master/HW1)
+ * [作業1](https://github.com/06170228/my-note/tree/master/HW1)
  
-      -[作業1內容說明](https://github.com/pignini/as/blob/master/HW1/README.md)
+      -[作業1內容說明](https://github.com/06170228/my-note/blob/master/HW1/quick%20sort解釋.md)
      
-      -[Quick Sort程式碼](https://github.com/pignini/as/blob/master/HW1/quicksort.py)
+      -[Quick Sort程式碼](https://github.com/06170228/my-note/blob/master/HW1/quick%20sort.ipynb)
       
-      -[Quick Sort學習歷程](https://github.com/pignini/as/blob/master/HW1/Quick%20%20Sort學習歷程.md)
+      -[Quick Sort學習歷程](https://github.com/06170228/my-note/blob/master/HW1/quick%20sort解釋.md)
       
- * [作業2](https://github.com/pignini/as/tree/master/HW2)
+ * [作業2](https://github.com/06170228/my-note/tree/master/HW2)
  
-      -[作業2內容說明](https://github.com/pignini/as/blob/master/HW2/README.md)
+      -[作業2內容說明](https://github.com/06170228/my-note/blob/master/HW2/README.md)
  
-      -[Heap Sort程式碼](https://github.com/pignini/as/blob/master/HW2/heap_sort_06170129.py)
+      -[Heap Sort程式碼](https://github.com/06170228/my-note/blob/master/HW2/heap_sort_06170228.py)
       
-      -[Heap Sort學習歷程](https://github.com/pignini/as/blob/master/HW2/heap%20%20sort.md)
+      -[Heap Sort學習歷程](https://github.com/06170228/my-note/blob/master/HW2/heap_sort.md)
       
-      -[Merge Sort程式碼](https://github.com/pignini/as/blob/master/HW2/merge_sort_06170129.py)
+      -[Merge Sort程式碼](https://github.com/06170228/my-note/blob/master/HW2/merge_sort_06170228.py)
       
-      -[Merge Sort學習歷程](https://github.com/pignini/as/blob/master/HW2/merge%20%20%20%20sort.md)   
+      -[Merge Sort學習歷程](https://github.com/06170228/my-note/blob/master/HW2/merge_sort.md)   
       
-      -[Merge Sort跟Heap Sort的比較](https://github.com/pignini/as/blob/master/HW2/Merge%20Sort跟Heap%20Sort的比較.md)    
+      -[Merge Sort跟Heap Sort的比較](https://github.com/06170228/my-note/blob/master/HW2/Merge%20sort%26%20Heap%20sort之比較.md)    
       
- * [作業3](https://github.com/pignini/as/tree/master/HW3)
+ * [作業3](https://github.com/06170228/my-note/tree/master/HW3)
  
-      -[作業3內容說明](https://github.com/pignini/as/blob/master/HW3/README.md)
+      -[作業3內容說明](https://github.com/06170228/my-note/blob/master/HW3/README.md)
  
-      -[Binary Search Tree程式碼](https://github.com/pignini/as/blob/master/HW3/binary_search_tree_06170129.py)
+      -[Binary Search Tree程式碼](https://github.com/06170228/my-note/blob/master/HW3/binary_search_tree_06170228.py)
       
-      -[Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
+      -[Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/06170228/my-note/blob/master/HW3/BST流程圖%26學習歷程.md)
       
-      -[Binary Search Tree新增、刪除、查詢、修改功能說明](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
+      -[Binary Search Tree新增、刪除、查詢、修改功能說明](https://github.com/06170228/my-note/blob/master/HW3/BST新增、刪除、修改、查詢之說明.md)
 
- * [作業4](https://github.com/pignini/as/tree/master/HW4)
+ * [作業4](https://github.com/06170228/my-note/tree/master/HW4)
 
-      -[作業4內容說明](https://github.com/pignini/as/blob/master/HW4/README.md)
+      -[作業4內容說明](https://github.com/06170228/my-note/blob/master/HW4/README.md)
       
-      -[Hash Table程式碼](https://github.com/pignini/as/blob/master/HW4/hash_table_06170129.py)
+      -[Hash Table程式碼](https://github.com/06170228/my-note/blob/master/HW4/hash_table_06170228.py)
       
-      -[Hash Table流程圖、學習歷程與Hash Table 與Hash function原理](https://github.com/pignini/as/blob/master/HW4/Hash%20Table流程圖、學習歷程與Hash%20Table%20與Hash%20function原理.md)
+      -[Hash Table流程圖、學習歷程與Hash Table 與Hash function原理](https://github.com/06170228/my-note/blob/master/HW4/hash%20table原理＆學習歷程＆流程圖.md)
 
- * [作業5](https://github.com/pignini/as/tree/master/HW5)
+ * [作業5](https://github.com/06170228/my-note/tree/master/HW5)
  
-      -[作業5內容說明](https://github.com/pignini/as/blob/master/HW5/README.md)
+      -[作業5內容說明](https://github.com/06170228/my-note/blob/master/HW5/README.md)
  
-      -[BFS與DFS程式碼](https://github.com/pignini/as/blob/master/HW5/BFS_06170129.py)
+      -[BFS與DFS程式碼](https://github.com/06170228/my-note/blob/master/HW5/BFS_06170228.py)
       
-      -[BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/pignini/as/blob/master/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
+      -[BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/06170228/my-note/blob/master/HW5/流程圖%26學習歷程%26BFS與DFS原理比較.md)
 
- * [作業6](https://github.com/pignini/as/tree/master/HW6)
+ * [作業6](https://github.com/06170228/my-note/tree/master/HW6)
 
-      -[作業6內容說明](https://github.com/pignini/as/blob/master/HW6/README.md)
+      -[作業6內容說明](https://github.com/06170228/my-note/blob/master/HW6/README.md)
       
-      -[Dijkstra與Kruskal程式碼](https://github.com/pignini/as/blob/master/HW6/Dijkstra_06170129.py)
+      -[Dijkstra與Kruskal程式碼](https://github.com/06170228/my-note/blob/master/HW6/Dijkstra_06170228.py)
       
-      -[Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](https://github.com/pignini/as/blob/master/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
+      -[Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](https://github.com/06170228/my-note/blob/master/HW6/Dijkstra%20%26%20Kruskal原理說明、流程圖、學習歷程.md)
 
 
 
