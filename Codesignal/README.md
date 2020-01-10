@@ -7,7 +7,7 @@ Python程式設計是資料科學的基本技能。為了熟悉Python的語法�
 CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeSignal的題目比較簡單一些，針對初學者使用。
 
 # 題目
-- [Python Meet Python](#第一部分-Python-Meet-Python)
+- [Python Meet Python](# Python-Meet-Python)
 - [第一題](#01)
 - [第二題](#02)
 - [第三題](#03)
@@ -18,7 +18,7 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeS
 - [第八題](#08)
 
 
-# 第一部分 Python Meet Python
+# Python Meet Python
 
 ## 01
 ![](/image/01.png)
