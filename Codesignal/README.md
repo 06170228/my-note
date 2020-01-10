@@ -16,7 +16,7 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeS
 - [第六題](#06)
 - [第七題](#07)
 - [第八題](#08)
-- [test](#09)
+- [other test](#09)
 
 
 # Python Meet Python
