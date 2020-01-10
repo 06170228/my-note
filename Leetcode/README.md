@@ -13,4 +13,16 @@ LeetCode是一個線上解程式題的網站，讓人可以在網頁上直接寫
 因此若你有 LeetCode 的解題記錄，對於日後求職，是有一定的加分效果的。
 
 這是leetcode的頁面，下面有許多題目，依照easy到hard都有。
-![leetcode頁面]()
+![leetcode頁面](https://github.com/06170228/my-note/blob/master/Image/leetcode%E9%A0%81%E9%9D%A2.png)
+
+## 下面是練習題目
+
+(01#Two Sum)[https://github.com/06170228/my-note/blob/master/Leetcode/01%23Two%20Sum_06170228.py]
+
+(07_#Reverse Integer)[https://github.com/06170228/my-note/blob/master/Leetcode/07_%23Reverse%20Integer_06170228.py]
+
+(104#Maximum Depth of Binary Tree)[https://github.com/06170228/my-note/blob/master/Leetcode/104%23Maximum%20Depth%20of%20Binary%20Tree_06170228.py]
+
+(654#Maximum Binary Tree)[https://github.com/06170228/my-note/blob/master/Leetcode/654%23Maximum%20Binary%20Tree_06170228.py]
+
+(965#Univalued Binary Tree)[https://github.com/06170228/my-note/blob/master/Leetcode/965%23Univalued%20Binary%20Tree_06170228.py]
