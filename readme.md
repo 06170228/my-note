@@ -177,8 +177,8 @@ IT'S ME!!!!
  
  ----------------------------------------
  
- ![]()
- ![]()
+ ![](https://github.com/06170228/my-note/blob/master/Image/heap%20sort.png)
+
  
  ----------------------------------------
 
@@ -190,7 +190,7 @@ IT'S ME!!!!
 
 ----------------------------------------
  
-![]()
+![](https://github.com/06170228/my-note/blob/master/Image/merge%20sort.png)
 
 ----------------------------------------
 
@@ -201,7 +201,7 @@ IT'S ME!!!!
 
 ----------------------------------------
 
-![]()
+![](https://github.com/06170228/my-note/blob/master/Image/binary%20tree.png)
 [binary tree](http://alrightchiu.github.io/SecondRound/binary-tree-jian-li-yi-ke-binary-tree.html)
 
 ----------------------------------------
@@ -224,13 +224,12 @@ IT'S ME!!!!
 
 # week 10
 (11/11-11/15)
-* Binary Search Tree
 * Red Black Tree
 
 ----------------------------------------
  
-![]() 
-![]()
+![](https://github.com/06170228/my-note/blob/master/Image/rbt.png) 
+![](https://github.com/06170228/my-note/blob/master/Image/rbt01.png)
  
  ----------------------------------------
 
@@ -241,8 +240,8 @@ IT'S ME!!!!
 [作業4](https://github.com/06170228/my-note/tree/master/HW4)
 
 
- ![]()
- ![]()
+ ![](https://github.com/06170228/my-note/blob/master/Image/hash%20table.png)
+ ![](https://github.com/06170228/my-note/blob/master/Image/hash%20set.png)
  [hash set](https://www.cs.wcupa.edu/rkline/ds/hash-sets.html)
  
  ---------------------------------------- 
@@ -253,7 +252,7 @@ IT'S ME!!!!
  
  ----------------------------------------
   
- ![]() 
+ ![](https://github.com/06170228/my-note/blob/master/Image/bfs01.png) 
  
  ----------------------------------------
  
@@ -265,8 +264,8 @@ IT'S ME!!!!
 
  ----------------------------------------
     
- ![]() 
- ![]() 
+ ![](https://github.com/06170228/my-note/blob/master/Image/dfs01.png) 
+ ![](https://github.com/06170228/my-note/blob/master/Image/dfs02.png) 
  ----------------------------------------
 
 # week 14
@@ -275,7 +274,7 @@ IT'S ME!!!!
 
  ----------------------------------------
  
- ![]()
+ ![](https://github.com/06170228/my-note/blob/master/Image/mst.png)
  [minimum spanning tree](http://alrightchiu.github.io/SecondRound/minimum-spanning-treeintrojian-jie.html)
  
  ----------------------------------------
@@ -285,7 +284,7 @@ IT'S ME!!!!
 *  Shortest Path
 
  
- ![]()
+ ![](https://github.com/06170228/my-note/blob/master/Image/sp.png)
  [shortest path](http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html) 
  
  ----------------------------------------
@@ -311,4 +310,3 @@ IT'S ME!!!!
 
 ## 期末心得
 
-這學期。。。。。
