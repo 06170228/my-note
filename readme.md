@@ -124,26 +124,26 @@ IT'S ME!!!!
  
 #### Designed Linked List  
 
-[內容](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
+![](https://github.com/06170228/my-note/blob/master/Image/link%20list.png)
+![](https://github.com/06170228/my-note/blob/master/Image/link%20list%2001.png)
+![](https://github.com/06170228/my-note/blob/master/Image/link%20list%2002.png)
 
- ----------------------------------------
-  
-  ![](/image/linked-list.png)
- 
- ----------------------------------------
+
+----------------------------------------
+
 
 
 # week 3
 (9/23-9/27)
 * Stack & Queue
 
-#### Implement Queue using Stacks 
 
-[內容](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
-
- ----------------------------------------
  
-  ![](image/%20%20Stack%20&%20Queue%20.png)
+  ![](https://github.com/06170228/my-note/blob/master/Image/stack%20%26%20queue.png)
+  ![](https://github.com/06170228/my-note/blob/master/Image/s%20%26%20q%2001.png)
+  ![](https://github.com/06170228/my-note/blob/master/Image/s%20%26%20q%2002.png)
+  ![](https://github.com/06170228/my-note/blob/master/Image/s%20%26%20q%2003.png)
+  ![](https://github.com/06170228/my-note/blob/master/Image/s%20%26%20q%2004.png)
   
  ----------------------------------------
 
@@ -153,19 +153,16 @@ IT'S ME!!!!
 * Insertion Sort(插入排序法)
 * Quick Sort(快速排序法)
 
-#### Sort an Array
 
-[內容](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
 
- ----------------------------------------
 
-  ![](/image/Insertion%20Sort.png)
+  ![]()
  
- ----------------------------------------
+
  
-  ![](image/Quick%20Sort.png)
+  ![]()
   
- ----------------------------------------
+
 
 
 # week 5 
