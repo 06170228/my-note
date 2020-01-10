@@ -21,7 +21,7 @@ LeetCode是一個線上解程式題的網站，讓人可以在網頁上直接寫
 
 [07_#Reverse Integer](https://github.com/06170228/my-note/blob/master/Leetcode/07_%23Reverse%20Integer_06170228.py)
 
-[104#Maximum Depth of Binary Tree])https://github.com/06170228/my-note/blob/master/Leetcode/104%23Maximum%20Depth%20of%20Binary%20Tree_06170228.py)
+[104#Maximum Depth of Binary Tree](https://github.com/06170228/my-note/blob/master/Leetcode/104%23Maximum%20Depth%20of%20Binary%20Tree_06170228.py)
 
 [654#Maximum Binary Tree](https://github.com/06170228/my-note/blob/master/Leetcode/654%23Maximum%20Binary%20Tree_06170228.py)
 
